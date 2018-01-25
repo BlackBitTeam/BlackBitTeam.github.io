@@ -1,2 +1,2 @@
 
-<img src="https://github.com/BlackBitTeam/BlackBitTeam.github.io/blob/master/blackbit.jpg">
+<img src="https://github.com/BlackBitTeam/BlackBitTeam.github.io/blob/master/logo.jpg">
